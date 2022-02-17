@@ -1,0 +1,17 @@
+h2{
+    color: #008cff
+}
+.EP{
+    margin-left:100px;
+    margin-right:100px;
+    margin-bottom: 50px;
+    margin-top:50px;
+}
+#CVNAME{
+    text-align:center;
+    font-family:'Times New Roman', Times, serif;
+    color:#008cff;
+}
+.addy{
+    text-align:center;
+}

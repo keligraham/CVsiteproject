@@ -1,0 +1,10 @@
+var name= prompt("Enter Name")
+document.getElementById("CVNAME").innerHTML=name;
+let address= prompt("Enter Address Details")
+document.getElementById("addie").innerHTML=address;
+let MRC= prompt("Enter Most Recent Company Name")
+document.getElementById("Company1").innerHTML=MRC;
+let SRC= prompt("Enter Second Most Recent Company Name")
+document.getElementById("Company2").innerHTML=SRC;
+let TRC= prompt("Enter Third Most Recent Company Name")
+document.getElementById("Company3").innerHTML=TRC;
